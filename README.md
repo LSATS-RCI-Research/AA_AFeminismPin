@@ -21,7 +21,7 @@ Schematic for this design:
 
 
 -----
-Original artwork and design by Allana Tran.
+Original artwork and design by [Allana Tran](https://allanatt.carrd.co/).
 
-Schematic and PCB development by Joe Bauer.
+Schematic and PCB by Joe Bauer.
 
